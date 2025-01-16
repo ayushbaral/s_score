@@ -25,7 +25,12 @@ This repo contains files to download stock data, and run the algorithm to create
     <img width="296" alt="image" src="https://github.com/user-attachments/assets/8ecc3021-b909-4129-a6c8-5af65426d2ca" />
 
 11) So the signals to buy and sell would be:
-    if the s_score <= -1.25 we buy else if the s_score goes above 1.25 we close our position. 
+    if the s_score <= -1.25 we buy else if the s_score goes above 1.25 we close our position.
+
+Example:
+<img width="972" alt="image" src="https://github.com/user-attachments/assets/0a9d4b4b-8bd4-40c5-95d5-d171d5d95042" />
+
+
 
 
 
